@@ -8,5 +8,6 @@
 .idea
 
 # build
+*.egg-info/
 dist/
 build/
